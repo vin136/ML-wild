@@ -10,4 +10,7 @@ There is a wide gap between machine learning in the Real-world and academia. Thi
 ## Research Papers:
 
 [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643)
+
 [Model Patching: Closing the Subgroup Performance Gap with Data Augmentation](https://arxiv.org/abs/2008.06775)
+
+[Understanding Dataset Shiftand Potential Remedies](https://vectorinstitute.ai/wp-content/uploads/2021/08/ds_project_report_final_august9.pdf)
