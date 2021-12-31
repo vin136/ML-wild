@@ -5,4 +5,4 @@ There is a wide gap between machine learning in the Real-world and academia. Thi
 
 [END-END MLOPS Project](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
 
-[Robustness-gym](https://www.youtube.com/watch?v=mNkqAZ54wGo)
+[Robustness-gym and Mandaline](https://www.youtube.com/watch?v=mNkqAZ54wGo)
