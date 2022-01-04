@@ -1,7 +1,23 @@
 # ML-wild
 Synthesizing insights for building Real-world ML systems.
 
-There is a wide gap between machine learning in the Real-world and academia. This repo is a collection of notes to myself to avoid as much angst as possible for my future self.
+There is a wide gap between machine learning in the Real-world and academia. This repo is a collection of notes to myself to avoid as much angst as possible for my future self. The challenges many challenges that I faced in my work but doesn't really seem to bother academic ML researchers. More importantly the experience I gained is largely visceral and can't even be easily transferred. This repo is an attempt at forcing myself to clearly articulate the tricks/tools and techniques needed to successfully develop ML-centric applications. 
+
+# working thoughts(When not mentioned, Models largely refer to Deep Neural networks)
+
+1. When should I retrain my models ?
+How to identify, have a clear and a sound rule for retraning. Model updating-> I don't want to retrain but just update on the recent data. In my last job, we need to do this on Deep RL algorithms, completely hopeless endeovour. Can I identify data-set shift before model degradation ? In my experience it's based off historcial experience of the model coming from somebody older than you.
+
+2.Quantifying improvement ?
+How to quantify improvement. Esp with DEEPRL, no clear best model. 
+
+3.What to monitor ? How to split the data ?
+Not as simple as they seem.
+
+4. How to test Machine Learning Code ?
+We avoided testing altogether. Well there were bunch of assert statements all over.
+
+
 
 [END-END MLOPS Project](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
 
