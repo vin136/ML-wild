@@ -12,10 +12,12 @@ How to identify, have a clear and a sound rule for retraning. Model updating-> I
 How to quantify improvement. Esp with DEEPRL, no clear best model. 
 
 3.What to monitor ? How to split the data ?
-Not as simple as they seem.
+Not as simple as they seem. We want testing data as relective of production-data. In case of time-series we also want to have training data as close to real-world/testing data. Thus the latest data is contested by both traning-split and testing-split. What split is the best/reliable indicator of your model's live performance.
 
 4. How to test Machine Learning Code ?
-We avoided testing altogether. Well there were bunch of assert statements all over.
+We avoided testing altogether. Well there were bunch of assert statements all over. Validation data is often limited. We need to track other metrics/properties of the model that are proxy for generalization. This also comes under testing, if we view tests as series of binary functions that all must assert True before putting the model to production.
+
+5. Finally we want models that fail gracefully ?
 
 
 
