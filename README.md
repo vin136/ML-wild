@@ -32,3 +32,9 @@ We avoided testing altogether. Well there were bunch of assert statements all ov
 [Model Patching: Closing the Subgroup Performance Gap with Data Augmentation](https://arxiv.org/abs/2008.06775)
 
 [Understanding Dataset Shiftand Potential Remedies](https://vectorinstitute.ai/wp-content/uploads/2021/08/ds_project_report_final_august9.pdf)
+
+
+## Good Quality to study ML from the foundations
+
+`Mathematics`
+[Linear Algebra](https://www.youtube.com/watch?v=dn_VXccQrJo&list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
