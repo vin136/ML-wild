@@ -21,9 +21,13 @@ We avoided testing altogether. Well there were bunch of assert statements all ov
 
 
 
-[END-END MLOPS Project](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
+END-END MLOPS Projects
+
+[Don't need a bigger boat1](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
+[MSYS Course material](https://github.com/jacopotagliabue/FREE_7773)
 
 [Robustness-gym and Mandaline](https://www.youtube.com/watch?v=mNkqAZ54wGo)
+
 
 ## Research Papers:
 
