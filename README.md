@@ -42,5 +42,36 @@ END-END MLOPS Projects
 
 ## Good Quality to study ML from the foundations
 
+`Practical Resources`
+
+[AppliedAI notes](https://github.com/raveendarv/AppliedAiCourse-AssignmentAndNotes)
+
 `Mathematics`
 [Linear Algebra](https://www.youtube.com/watch?v=dn_VXccQrJo&list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
+
+
+## Broad Strokes.
+Assorted notes from various sources.
+
+Step 1: Store and Collect data
+
+Step 2: Prepare Training data
+
+
+a. Hand Labeling
+- Linear(More people for more labels)
+- Privacy Issues (Maybe you can't show the data to a person)
+- Costly( Radiology reports vs comment-toxicity)
+- Aren't adaptive( you now want to train on 3 classes instead of 2 which you previously handlabeled)
+
+If you have to follow this route be careful with ambiguity( specify the task precisely and give instructions on how to label in ambiguos cases -> ensure quality labels), multiplicity(variation(label quality) due to different annotators,typically data from various sources/vendors is merged)
+
+How to Deal with unlabeled Data ?
+
+<img width="797" alt="Screen Shot 2022-01-07 at 10 25 18 PM" src="https://user-images.githubusercontent.com/21222766/148629986-75e84f18-ede7-4d55-b5b6-2458b68da28a.png">
+
+
+
+
+
+
