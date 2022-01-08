@@ -28,6 +28,8 @@ END-END MLOPS Projects
 
 [Robustness-gym and Mandaline](https://www.youtube.com/watch?v=mNkqAZ54wGo)
 
+[yugene yan's blog](https://eugeneyan.com/writing/patterns-for-personalization/)
+
 
 ## Research Papers:
 
