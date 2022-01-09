@@ -50,8 +50,16 @@ END-END MLOPS Projects
 
 [Linear Algebra](https://www.youtube.com/watch?v=dn_VXccQrJo&list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
 [Optimization](https://github.com/rishabhk108/AdvancedOptML)
+[Another Course in Optimization though not as good](https://cs.uwaterloo.ca/~y328yu/mycourses/794/lecture.html)
+[Robust ML Course](https://www.youtube.com/watch?v=txnftFoHHbo)
 
+`Practice Oriented Courses/Resources`
 
+[ML Course](https://github.com/parrt/msds621)
+[Learn to build open Source Package](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
+
+`Interview Prep Resources`
+[This blog](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
 ## Broad Strokes.
 Assorted notes from various sources.
 
