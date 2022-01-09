@@ -47,7 +47,9 @@ END-END MLOPS Projects
 [AppliedAI notes](https://github.com/raveendarv/AppliedAiCourse-AssignmentAndNotes)
 
 `Mathematics`
+
 [Linear Algebra](https://www.youtube.com/watch?v=dn_VXccQrJo&list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
+[Optimization](https://github.com/rishabhk108/AdvancedOptML)
 
 
 ## Broad Strokes.
