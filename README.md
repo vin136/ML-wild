@@ -25,7 +25,7 @@ END-END MLOPS Projects
 
 [Don't need a bigger boat1](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
 [MSYS Course material](https://github.com/jacopotagliabue/FREE_7773)
-
+[Another end-end project](https://www.mihaileric.com/posts/setting-up-a-machine-learning-project/)
 [Robustness-gym and Mandaline](https://www.youtube.com/watch?v=mNkqAZ54wGo)
 
 [yugene yan's blog](https://eugeneyan.com/writing/patterns-for-personalization/)
