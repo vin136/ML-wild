@@ -57,6 +57,7 @@ END-END MLOPS Projects
 
 [ML Course](https://github.com/parrt/msds621)
 [Learn to build open Source Package](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
+[Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/)
 
 `Interview Prep Resources`
 [This blog](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
