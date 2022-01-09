@@ -30,7 +30,8 @@ END-END MLOPS Projects
 
 [yugene yan's blog](https://eugeneyan.com/writing/patterns-for-personalization/)
 
-
+Books
+[Good Book on MLFLOW](https://github.com/outerbounds/dsbook)
 ## Research Papers:
 
 [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643)
