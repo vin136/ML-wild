@@ -25,8 +25,10 @@ END-END MLOPS Projects
 
 [Don't need a bigger boat1](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
 [MSYS Course material](https://github.com/jacopotagliabue/FREE_7773)
+[no-ops ML](https://github.com/jacopotagliabue/no-ops-machine-learning)
 [Another end-end project](https://www.mihaileric.com/posts/setting-up-a-machine-learning-project/)
 [Robustness-gym and Mandaline](https://www.youtube.com/watch?v=mNkqAZ54wGo)
+[DAG CARDS](https://arxiv.org/pdf/2110.13601.pdf) N [IT'S CODE](https://github.com/jacopotagliabue/dag-card-is-the-new-model-card)
 
 [yugene yan's blog](https://eugeneyan.com/writing/patterns-for-personalization/)
 
