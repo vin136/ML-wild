@@ -89,6 +89,8 @@ Infrastructure or Platform Engineer provides general pieces of infrastructure, s
 
 Data Scientist -> Looking at data, writing code, evaluating it, and analyzing results. 
 
+I used spreadsheets for experiment-tracking.->No uniform guidelines about how to structure the spreadsheets.
+
 
 END-END MLOPS Projects
 
