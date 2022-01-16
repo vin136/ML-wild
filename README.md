@@ -147,6 +147,12 @@ How to Deal with unlabeled Data ?
 
 `Mathematics`
 
+BEST RESOURCES
+Optimization : [this notes](http://course.sdu.edu.cn/G2S/eWebEditor/uploadfile/20130906201902822.pdf) or [this longer notes](https://faculty.uml.edu/cbyrne/optfirst0.pdf)
+
+Linear Algebra: [this course](https://www.youtube.com/watch?v=-CDNQY1GTtA&list=PLOAf1ViVP13jdhvy-wVS7aR02xnDxueuL&index=2)
+
+Good Resoursces
 [Linear Algebra](https://www.youtube.com/watch?v=dn_VXccQrJo&list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
 [Optimization](https://github.com/rishabhk108/AdvancedOptML)
 [Another Course in Optimization though not as good](https://cs.uwaterloo.ca/~y328yu/mycourses/794/lecture.html)
