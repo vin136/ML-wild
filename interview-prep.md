@@ -30,6 +30,9 @@ What data to choose,design of loss functions,models,metrics etc.
 - General knowledge about the common approaches used in the domain.
 Read Case studies.
 
+**notes**
+
+[Recsys](https://github.com/vin136/ML-wild/blob/main/case-studies.md)
 
 ## Bounded tests
 
