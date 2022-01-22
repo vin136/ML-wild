@@ -8,9 +8,9 @@ Focus Timeline
 
 `Tasks`
 - [ ] ` Bounded tests`
- - [ ] SQL
- - [ ] PANDAS
- - [ ] LeetCode (easy/medium)
+  - [ ] SQL
+  - [ ] PANDAS
+  - [ ] LeetCode (easy/medium)
 - [ ] `Unbounded tests` 
   - [ ] **Breadth and System desigen notes**: at medium level.(strictly interview standard/minimum knowledge expected from a candidate)
   - [ ] **Depth/Projects**: Should have completed 2/3 resume ready projs through coursework.
@@ -34,17 +34,17 @@ Progress-tracking/journal
 2. ML DEPTH
 3. System Design
 
-**Strategy**
+## Strategy
 
-Bredth
+**Bredth**
 
 - **Make notes for each model as you go through classes.**
 
-Depth
+**Depth**
 
 - Focus on doing end-end projects and prepare a good project report (use class project)
 
-System Design
+**System Design**
 
 There are two kinds. 
 
