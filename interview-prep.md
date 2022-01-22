@@ -8,6 +8,9 @@ Focus Timeline
 
 `Tasks`
 - [ ] ` Bounded tests`
+ - [ ] SQL
+ - [ ] PANDAS
+ - [ ] LeetCode (easy/medium)
 - [ ] `Unbounded tests` 
   - [ ] **Breadth and System desigen notes**: at medium level.(strictly interview standard/minimum knowledge expected from a candidate)
   - [ ] **Depth/Projects**: Should have completed 2/3 resume ready projs through coursework.
