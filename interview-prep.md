@@ -34,7 +34,7 @@ Progress-tracking/journal
 2. ML DEPTH
 3. System Design
 
-## Strategy
+### Strategy
 
 **Bredth**
 
