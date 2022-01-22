@@ -15,7 +15,20 @@ Focus Timeline
   - [ ] **Breadth and System desigen notes**: at medium level.(strictly interview standard/minimum knowledge expected from a candidate)
   - [ ] **Depth/Projects**: Should have completed 2/3 resume ready projs through coursework.
 
+`TODO`
+
+**PANDAS**
+
+Read through official [docs](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)
+
+Solve questions from [StrataScratch](https://platform.stratascratch.com/coding/10308-salaries-differences?python=1)
+
+
+
 Progress-tracking/journal
+
+01/22/2022
+- [x] Started reading Pandas docs.+ Looked at UCDAVIS Coursera course first week content. Takeaways : (ER diagrams,relationships)
 
  
 
