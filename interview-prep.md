@@ -1,3 +1,24 @@
+# Timeline
+
+Focus Timeline
+
+1. **Subject Matter Expertise**
+- Prep Start-date - end-date(two months)
+  - Jan 22-2022 : Mar 22-2022
+
+`Tasks`
+- [ ] ` Bounded tests`
+- [ ] `Unbounded tests` 
+  - [ ] **Breadth and System desigen notes**: at medium level.(strictly interview standard/minimum knowledge expected from a candidate)
+  - [ ] **Depth/Projects**: Should have completed 2/3 resume ready projs through coursework.
+
+Progress-tracking/journal
+
+ 
+
+
+
+
 
 ## General ML Interview Structure
 
