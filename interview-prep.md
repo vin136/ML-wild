@@ -36,6 +36,7 @@ Progress-tracking/journal
 01/23/2022
 - [x] 
   - Pandas docs continued
+  - Worked on A.linear algebra course.(saw videos). got to do the blog-part.
  
 
 
