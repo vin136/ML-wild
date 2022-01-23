@@ -28,7 +28,10 @@ Solve questions from [StrataScratch](https://platform.stratascratch.com/coding/1
 Progress-tracking/journal
 
 01/22/2022
-- [x] Started reading Pandas docs.+ Looked at UCDAVIS Coursera course first week content. Takeaways : (ER diagrams,relationships)
+- [x] 
+  - Started reading Pandas docs.
+  - Looked at UCDAVIS Coursera course first week content. Takeaways : (ER diagrams,relationships)
+  - Read first two chapters of BDA - andrew gelman + BDA-SLIDES
 
  
 
