@@ -33,6 +33,14 @@ Progress-tracking/journal
   - Looked at UCDAVIS Coursera course first week content. Takeaways : (ER diagrams,relationships)
   - Read first two chapters of BDA - andrew gelman + BDA-SLIDES
 
+01/23/2022
+- [x] 
+  - Pandas docs continued
+ 
+
+
+
+
  
 
 
