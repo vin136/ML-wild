@@ -42,6 +42,10 @@ Progress-tracking/journal
 - [x] 
   - mml first ml chapter read. Linear model understood.
 
+01/24/2022
+- [x] 
+  - Probability slide-deck made and read from [Joint dist](https://probability4datascience.com/ch05.html) and [Sample Statistics](https://probability4datascience.com/ch06.html)
+
 
 
 
