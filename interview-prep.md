@@ -38,6 +38,9 @@ Progress-tracking/journal
   - Pandas docs continued
   - Worked on A.linear algebra course.(saw videos). got to do the blog-part.
  
+01/23/2022
+- [x] 
+  - mml first ml chapter read. Linear model understood.
 
 
 
