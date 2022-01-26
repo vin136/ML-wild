@@ -73,8 +73,34 @@ Among the data gathered,rerank them based on these rules. Always monitor the eff
 
 
 
+## 150 Successful Machine Learning Models: [6 Lessons Learned at Booking.com](https://blog.kevinhu.me/2021/04/25/25-Paper-Reading-Booking.com-Experiences/bernardi2019.pdf)
 
+`Background`
 
+Booking.com is a two sided market place. Some interesting traits of their scenario.
+relevant metrics:  sales diversification, conversion rate or loyalty.
+
+- contant cold start: users travel only 1 or 2times a year.
+- High stakes: unlike movie recommendation,once booked and reached a destination..it's hard to undo.
+- Delayed feedback.
+-  classification problems the Bayes Error is a good estimate for learnability of the model since it only depends on the data set, we apply methods from the work of Tumer & Ghosh
+- As just described, constructing label and observation spaces can easily introduce selection bias. How to identify selection bias 
+
+construct a classification problem that classifies each observation into the class of the observations for which a target variable can be computed and the class of the observations for which a target variable cannot be computed. If this classification problem is easy (in the sense that a simple algorithm performs significantly better than random) then the bias is severe and must be addressed.
+
+-  lack of correlation is not between offline and online performance, but between offline performance gain and business value gain.
+-   standard performance metric for Machine Translation (BLEU) exhibits a “rather tenuous” correlation with human metrics. Only where the offline metric is almost exactly the business metric, a correlation can be observed.
+
+Why ?
+
+- we apply triggered analysis to make sure we only consider the users exposed to a change, that is, users for which the models disagree. As models improve on each other, this disagreement rate goes down, reducing the population of users that are actually exposed to a treatment.
+- Optimization vs Business metric:we might build a recommender system based on Click Through Rate because we know that CTR has a strong correlation or even causation with Conversion Rate, the business metric we really care about in this case.
+
+ (An example of this is a model that learned to recommend very similar hotels to the one a user is looking at, encouraging the user to click (presumably to compare all the very similar hotels), eventually drowning them into the paradox of choice and hurting conversion.)
+
+We often don't want to optimize on single metrics.
+
+so we create a challenger model that although still minimizes RMSE, somehow produces higher diversity. It is likely that this new model has a higher RMSE, but as long as it succeeds at increasing diversity and gives a reasonable RMSE, it will be used to test the hypothesis “diversity matters”
 
 
 
