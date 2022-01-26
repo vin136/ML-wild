@@ -73,7 +73,7 @@ Among the data gathered,rerank them based on these rules. Always monitor the eff
 
 
 
-## 150 Successful Machine Learning Models: [6 Lessons Learned at Booking.com](https://blog.kevinhu.me/2021/04/25/25-Paper-Reading-Booking.com-Experiences/bernardi2019.pdf)
+## 150 Successful Machine Learning Models: [6 Lessons Learned at Booking.com](https://blog.kevinhu.me/2021/04/25/25-Paper-Reading-Booking.com-Experiences/bernardi2019.pdf) and [this](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
 
 `Background`
 
