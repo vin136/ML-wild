@@ -167,6 +167,6 @@ Good Resoursces
 `Interview Prep Resources`
 [This blog](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
 
-
+[Model evaluation and Selection](https://arxiv.org/abs/1811.12808)
 
 
