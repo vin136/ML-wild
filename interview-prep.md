@@ -23,6 +23,8 @@ Read through official [docs](https://pandas.pydata.org/pandas-docs/stable/user_g
 
 Solve questions from [StrataScratch](https://platform.stratascratch.com/coding/10308-salaries-differences?python=1)
 
+Do one leetcode everyday starting jan-31-2022.And also revise all questions done by the end of deadline.
+
 
 
 Progress-tracking/journal
@@ -45,6 +47,12 @@ Progress-tracking/journal
 01/24/2022
 - [x] 
   - Probability slide-deck made and read from [Joint dist](https://probability4datascience.com/ch05.html) and [Sample Statistics](https://probability4datascience.com/ch06.html)
+
+01/31/2022
+  - Sorting deck made
+  - bayesian analysis practiced from martin's book.
+  - murphy read n slide deck prepared.(until logistic regression). Trees(deck made).
+  - Leetcode(1 q done)
 
 
 
