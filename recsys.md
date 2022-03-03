@@ -78,7 +78,7 @@ How to [evaluate (offline)?](https://dl.acm.org/doi/10.1145/1935826.1935878)
 
 <img width="533" alt="Screen Shot 2022-03-03 at 3 46 10 PM" src="https://user-images.githubusercontent.com/21222766/156650156-54fe7f6f-118f-4c5f-ac43-da79bd0b2598.png">
 
-2. [Youtube Reinforce] (https://arxiv.org/abs/1812.02353)
+2. [Youtube Reinforce](https://arxiv.org/abs/1812.02353)
 
 
 
