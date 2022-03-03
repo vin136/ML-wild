@@ -66,6 +66,23 @@ with an item, them can quickly fetch precalculated similarity item set and then 
 <img width="534" alt="Screen Shot 2022-03-03 at 2 50 17 PM" src="https://user-images.githubusercontent.com/21222766/156641944-40163ec1-fec4-4a96-9792-5a3088668413.png">
 
 
+
+# Rl for recsys
+## 1.Netflix Artwork customization(https://netflixtechblog.com/artwork-personalization-c589f074ad76)
+
+To reduce this regret, we move away from batch machine learning and consider online machine learning. This makes the cost of exploration per member negligible, which is an important consideration when choosing contextual bandits to drive a key aspect of our member experience. Randomization and exploration with contextual bandits would be less suitable if the cost of exploration were high.
+
+Under our online exploration scheme, we obtain a training dataset that records, for each (member, title, image) tuple, whether that selection resulted in a play of the title or not. Furthermore, we can control the exploration such that artwork selections do not change too often. 
+
+How to [evaluate (offline)?](https://dl.acm.org/doi/10.1145/1935826.1935878)
+
+<img width="533" alt="Screen Shot 2022-03-03 at 3 46 10 PM" src="https://user-images.githubusercontent.com/21222766/156650156-54fe7f6f-118f-4c5f-ac43-da79bd0b2598.png">
+
+2. [Youtube Reinforce] (https://arxiv.org/abs/1812.02353)
+
+
+
+
 Posing as Ranking problem
 - [Bayesianranking](https://arxiv.org/pdf/1205.2618.pdf)
 - [RL For recommender systems](https://eugeneyan.com/writing/reinforcement-learning-for-recsys-and-search/)
