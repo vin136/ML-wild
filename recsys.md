@@ -52,3 +52,6 @@ weight.
 This is about generating candidate set using item-item similarity on an Ecommerce site. They calculate item embeddings (word2vec,skipgram style) and when the user interacts
 with an item, them can quickly fetch precalculated similarity item set and then use a different ranking model.
 
+<img width="1016" alt="Screen Shot 2022-03-03 at 2 42 36 PM" src="https://user-images.githubusercontent.com/21222766/156640819-ab0c2868-1e6d-42c9-b97c-5c5a04950716.png">
+
+
