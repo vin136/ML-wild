@@ -1,3 +1,18 @@
+## Basics (notes from MDM class)
+
+Data :
+a.We can ask users to rate items -> This approach is limited in its effectiveness, since generally
+users are unwilling to provide responses, and the information from those
+who do may be biased by the very fact that it comes from people willing
+to provide ratings.
+
+b.We can make inferences from users’ behavior
+
+
+
+
+
+
 Eugene Yan's [blog](https://eugeneyan.com/writing/system-design-for-discovery/)
 
 ## [YouTube ranking](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190)
