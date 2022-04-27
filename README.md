@@ -141,9 +141,14 @@ How to Deal with unlabeled Data ?
 
 ## Good Quality to study ML from the foundations
 
+
+
+
 `Practical Resources`
 
 [AppliedAI notes](https://github.com/raveendarv/AppliedAiCourse-AssignmentAndNotes)
+
+[Causal Inference in DataScience](https://www.yuan-meng.com/posts/causality/)
 
 `Mathematics`
 
