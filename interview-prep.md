@@ -109,3 +109,9 @@ Pandas,SQL manipulation,leetcode easy/medium.
 - [Perfect Guide to ML interviews](https://github.com/khangich/machine-learning-interview)
 - [Chip's Sys-design guide](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [Chpis ML interview book](https://huyenchip.com/ml-interviews-book/)
+- [Educative io](https://www.educative.io/)
+
+## Resources(Advanced)
+- [market places tutorial kdd](https://sites.google.com/view/kdd20-marketplace-autorecsys/),[spotify](https://jamesmc.com/blog/2018/10/1/explore-exploit-explain)
+- [Learning from user interactions](http://rishabhmehrotra.com/russir18.html),[this video](https://www.youtube.com/watch?v=ZE4HpU_B3zs&t=3s)
+
