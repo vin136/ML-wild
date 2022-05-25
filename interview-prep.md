@@ -115,3 +115,8 @@ Pandas,SQL manipulation,leetcode easy/medium.
 - [market places tutorial kdd](https://sites.google.com/view/kdd20-marketplace-autorecsys/),[spotify](https://jamesmc.com/blog/2018/10/1/explore-exploit-explain)
 - [Learning from user interactions](http://rishabhmehrotra.com/russir18.html),[this video](https://www.youtube.com/watch?v=ZE4HpU_B3zs&t=3s)
 
+
+## Implementing ML ALGOS
+- [MML repo](https://github.com/mml-book/mml-book.github.io)
+- [sebatians repo](https://github.com/rasbt/deeplearning-models)
+
