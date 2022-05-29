@@ -165,6 +165,57 @@ Therefore, we show “randomized” recommendations instead of “popular first�
  
 ## Online Experimentation
 
+## Embeddings
+
+Embeddings enable the encoding of entities (e.g., words, docs, images, person, ad, etc.) in a low dimensional vector space such that it captures their semantic information. Capturing semantic information helps to identify related entities that occur close to each other in the vector space.
+
+For example, Twitter can build an embedding for their users based on their organic feed interactions and then use the embeddings for ads serving. Organic interactions are generally much greater in volume compared to ads interactions. This allows Twitter to learn user interests by organic feed interaction, capture it as embedding, and use it to serve more relevant ads.
+
+Another simple example is training word embeddings (like Word2vec) from Wiki data and using them as spam-filtering models.
+
+**Text embeddings#**
+
+1. Word2vec#
+2. Skip-gram
+3. Context-aware embeddings:
+
+Once trained, Word2vec embeddings have a fixed vector for every term. So, a Word2vec embedding doesn’t consider the context in which the word appears to generate its embedding. However, words in a different context can have very different meanings. For example, consider these two sentences:
+
+I’d like to eat an apple.
+Apple makes great products.
+Word2vec will give us the same embedding for the term “apple” although it points to completely different objects in the above two sentences.
+
+So, contextualized information can result in different meanings of the same word, and context-based embeddings look at neighboring terms at embedding generation time. This means that we have to provide contextual information (neighboring terms) to fetch embeddings for a term. In a Word2vec case, we don’t need any context information at the embeddings fetch time as embedding for each term was fixed.
+
+Two popular architectures used to generate word context-based embedding are:
+
+Embeddings from Language Models (ELMo)
+Bidirectional Encoder Representations from Transformers (BERT)
+
+**Visual embedding#**
+
+1. AutoEncoders
+2. The penultimate layer before softmax captures all image information in a vector such that it can be used to classify the image correctly. So, we can use the penultimate layer value of a pre-trained model as our image embedding.
+
+**Learning embeddings for a particular learning task#**
+
+The advantage of this embedding is a specialized one for the given prediction task. One important assumption here is that we have enough training data to be able to learn such representation during model training.
+
+**Network/Relationship-based embedding**
+
+For example, Pinterest has users that interact with Pins, YouTube has users that interact with videos, Twitter has users that interact with tweets, and Google search has both queries and users that interact with web results.
+
+We can think of these interactions as relationships in a graph or resulting in interaction pairs. For the above example, these pairs would look like:
+
+(User, Pin) for Pinterest
+(User, Video) for YouTube
+(User, Tweet) for Twitter
+(Query, Webpage) for Search
+(Searcher, Webpage) for Search
+In all the above scenarios, the retrieval and ranking of results for a particular user (or query) are mostly about predicting how close they are. We can generate embeddings for both the above-discussed pairs of entities in the same space by creating a two-tower neural network model that tries to encode each item using their raw features. The model optimizes the inner product loss such that positive pairs from entity interactions have a higher score and random pairs have a lower score. Let’s say the selected pairs of entities (from a graph or based on interactions) belong to set A. We then select random pairs for negative examples. The loss function will look like
+
+<img width="656" alt="Screen Shot 2022-05-29 at 5 19 07 PM" src="https://user-images.githubusercontent.com/21222766/170891793-cb3bdf77-b56c-4654-b9a4-2737ea763176.png">
+
 
 
 
