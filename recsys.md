@@ -102,3 +102,14 @@ Posing as Ranking problem
 - [Bayesianranking](https://arxiv.org/pdf/1205.2618.pdf)
 - [RL For recommender systems](https://eugeneyan.com/writing/reinforcement-learning-for-recsys-and-search/)
 - [Search ranking in E-commerce using DL](https://www.mendeley.com/reference-manager/reader/884a6c73-5aea-367a-88f4-0db5eb0369b8/2e788f9f-7110-cec7-1af4-1a3b21c1d763)
+
+
+MLOPOS LEARNERS
+
+Can post-processing,reranking address bias in the data ?
+
+bias:
+
+1.Position bias, 2. some products might have invested more in ads and thus have more behaviorial data(like best image,thunbnail to show) thus have advantage.
+
+Randomization: For eg: if bandit based ones,increase exploration.
