@@ -113,3 +113,34 @@ bias:
 1.Position bias, 2. some products might have invested more in ads and thus have more behaviorial data(like best image,thunbnail to show) thus have advantage.
 
 Randomization: For eg: if bandit based ones,increase exploration.
+
+Evaluation
+Points to consider: bottomline-> can't evaluate defferent systems using the same metrics.
+1. User intent: how specific user is in thier search
+2. User context: How comfortable is the user with the system
+3. How exactly is the recommendation presented to the user: N videos are presented @netflix. But in tiktok
+
+What to do when covid hit?
+Drop back to rulebased model(near random but not terrible) to collect data. And then train a new model after collecting enough data.
+
+New online shopping place.we have lot of customers coming in? But leaving quickly. Current system: most popular items of the previous day.
+
+- Lot's of new users coming in.
+- Dynamic inventory.
+
+Cold start: ITEM-ITEM EMBEDDING n then recommend based off initial few interactions. Use user's geographic location etc. Pre-empt this problem n let the users login via facebook,etc.
+
+Use sequential information: Take current cohort that actually converted. And model that. Use it to predict  items for new customers. Use language modeling to get item-item embedding.
+
+Ways of representing items/users ?
+1. USE/train a pusedo tasks with available information and then use the last layers as the embeddings. eg: for item, use the one hot vectors of it's info
+like product-category,etc and predict say the sales.
+2. Treat session level data. Prod2vec.
+
+Evaluation:
+Heldout sessions , take the first few interactions and use KNN and measure the performance.
+TO assess the semantic goodness of embeddings : their should be taxonomy for products, good embeddings should satisfy this (build a classifier).
+Expert human evaluators to give relevant suggestion based on past interactions -> test the embeddings.(qualitative,human bias)
+
+Solves cold start user problem with this. But still cold-start item ? If item is never seen,it wont be recommended often. but technically can use the category average and then randomly serve.
+
