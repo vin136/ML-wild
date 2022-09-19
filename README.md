@@ -37,7 +37,7 @@ https://rivs.zoom.us/j/4392120096
 
 First I'll start with the necessary technical skills. My prior experience as a Machine learning engineer helped me to become proficient in python and it's corresponding data science stack of libraries. I've developed sufficient skill to be able to modify the internals of some these libraries. In my last job,  We had to implement custom optimizers in tensorflow as there was a bug in the libraries implementation. This gave me the confidence to tackle any technical challeges in the work.
 
-Now to speak of general skills, I learned to write and communicate technical ideas to various stakeholders.From explaining my work to the fellow software engineer to communicating it with a potential investor, I learned to simplify and abstract away the right details. Also during my summer internship, I learned to cooperate with people of various backgrounds. My research work required me to colllaborate with people from different backgrounds with varying technical acumen including  my professor,couple of graduate students and even a highschool student working in the lab.
+Now to speak of general skills, I learned to write and communicate technical ideas to various stakeholders.From explaining my work to the fellow software engineer to communicating it with a potential investor, I learned to simplify and abstract away the right details. Also during my summer internship, I learned to cooperate with people of various backgrounds. My research work required me to colllaborate with people from different backgrounds with varying technical acumen including  my professor,couple of graduate students and even a highschool student working in the lab. I hope these skills would help to excel at the job.
 
 
 
