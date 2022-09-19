@@ -1,10 +1,10 @@
 **Why are you interested in this position (3 minutes to respond)**
 
-1. Since I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives.
+1. I learned that I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives. It's always and satisfying to know that not only you will learn skills useful in you career, but also have positive impact along the way.
 
 2. The preferred qualifications listed like experience with python data science libraries like pyspark,numpy, Scikitlearn or strong prior experience working with engineering datasets perfectly match my background.
 
-3. Also this summer my friend worked at J & J as a Software Development intern , who spoke very highly of the work culture and the team, Which makes me excited to work for the company. In fact, since then I started looking at the J&J career site for opportunities.
+3. Also this summer my friend worked at J & J as a Software Development intern , who spoke very highly of the work culture and the team, Which makes me excited to work for the company. In fact, since then I started looking at the J&J career site for opportunities. Also working at the company during the spring willl help me to learn more about the company and it's workculture. In the long run, I see myself building machine learning driven products that improve people's lives. And working at J&J would surely be step in the right direction.
 
 
 
@@ -49,11 +49,11 @@ Again, as in any research project, our technical skills are bound to be stretche
 **Why this role? Why J&J?**
 
 
-1. Since I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives.
+1. I learned that I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives. It's always and satisfying to know that not only you will learn skills useful in you career, but also have positive impact along the way.
 
 2. The preferred qualifications listed like experience with python and it's data science libraries like pyspark,numpy, Scikitlearn and strong prior experience working with engineering datasets perfectly match my background.
 
-3. Also this summer my friend worked at J & J as a Software Development intern, who spoke very highly of the work culture and the team, Which makes me excited to work for the company. In fact, since then I started looking at the J&J career site for opportunities.
+3. Also this summer my friend worked at J & J as a Software Development intern, who spoke very highly of the work culture and the team, Which makes me excited to work for the company. In fact, since then I started looking at the J&J career site for opportunities. Also working at the company during the spring willl help me to learn more about the company and it's workculture. In the long run, I see myself building machine learning driven products that improve people's lives. And working at J&J would surely be step in the right direction.
 
 
 
