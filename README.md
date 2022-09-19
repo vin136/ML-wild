@@ -1,3 +1,83 @@
+**Why are you interested in this position (3 minutes to respond)**
+
+1. Since I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives.
+
+2. The preferred qualifications listed like experience with python data science libraries like pyspark,numpy, Scikitlearn or strong prior experience working with engineering datasets perfectly match my background.
+
+3. Also this summer my friend worked at J & J as a Software Development intern , who spoke very highly of the work culture and the team, Which makes me excited to work for the company. In fact, since then I started looking at the J&J career site for opportunities.
+
+
+
+
+**In 90 seconds, describe your relevant professional experience (2 minute timer on the recording, despite the question stating 90 seconds)**
+
+1. First a quick summary, I'm currently pursuing my master's in computer science with specialization in Machine learning. Prior to that I worked as a machine learning engineer at a Fintech startup for 3 years.
+
+2. To tell a bit about my experience at the company. It was more of a research focused role. We were trying to completely automate financial trading using cutting edge machine learning techniques like Deep Reinforcement learning. Back in 2018, there were no successful industry scale applications of the technology. So my role was to read, understand and modify latest research in the field. First build research code. Perform and track experiments. After that take what's working and productionize the system. This cover's the complete lifecycle of a machine learning project - from research to production and maintanence of the models. Technology wise : SQL, Python, Numpy, pandas, tensorflow. 
+
+3. Now, Currently my master's is also focused on Machine learning research. This summer I've worked as a research intern under my Professor. We've built an accurate solar forecasting model, used for energy management. We designed a novel model that takes in Skyimages and other sensor data to predict future Solar irradiance. Our work is the process of being published. Here I explored various computer vision techniques along with classical machine learning algorithms.
+
+
+
+**What are your top three strengths for this position (3 minutes to respond)**
+
+1.From what I understand this position is a research and development role.In research, we constantly deal with uncertainty. We constantly have to ask the right questions and look for the answers. There are no set work to do, unlike in a purely engineering role. My past experience, trained me to deal with ambiguity.
+
+2. Working with people efficiently. In any R&D role, it's crucial to be able to understand and appreciate people's strengths. This let's us efficiently allocate the work leveraging the strengths of the team. I was the lead engineer in the small team of people with different strengths. Over time I learned their strengths and was able to give them the work they enjoyed and excelled. This dramatically improved our productivity.
+
+3. Giving my best. In whatever i choose to do, I'll give my all. When working with a novel or a hard problem, things often don't work the first time you try. Typically, people take failure too personally. I learned to decide carefully what's worth trying, irrespective of the outcome and give my best.
+
+
+
+**What skills have you gained that will help in this role?**
+
+First I'll start with the necessary technical skills. My prior experience as a Machine learning engineer helped me to become proficient in python and it's corresponding data science stack of libraries. I've developed sufficient skill to be able to modify the internals of some these libraries. In my last job,  We had to implement custom optimizers in tensorflow as there was a bug in the libraries implementation. This gave me the confidence to tackle any technical challeges in the work.
+
+Now to speak of general skills, I learned to write and communicate technical ideas to various stakeholders.From explaining my work to the fellow software engineer to communicating it with a potential investor, I learned to simplify and abstract away the right details. Also during my summer internship, I learned to cooperate with people of various backgrounds. My research work required me to colllaborate with people from different backgrounds with varying technical acumen including  my professor,couple of graduate students and even a highschool student working in the lab.
+
+
+
+**Tell us about a project or assignment you worked on, focusing on the skills you exercised and how you worked as part of a team**
+
+Recently I worked in the Energy lab at Rutgers as a research intern. We were working on improving the solar forecasting models. The team involved my professor, along with couple of graduate students and a High school student. First I learned to break the project into pieces that can be handled by different people of varying technical skills. Also in such collaborative projects, It's important to be kind. I've taught one of our labmate a tutorial on python and some of it's libraries. This not only creates a more positive and encouraging environment but improves the team productivity in the long run.
+
+Again, as in any research project, our technical skills are bound to be stretched. From dealing with noisy datasets to implementing non-trivial algorithms, I learned to embrace the unknown and work step by step.We created a roadmap and deligently followed it. With frequent lab meetings to access the progress, at the end of the short stint during my summer, we were able to improve the state of art in Solar forecasting. We are in the process of drafting our work for the publication.
+
+
+
+
+**Why this role? Why J&J?**
+
+
+1. Since I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives.
+
+2. The preferred qualifications listed like experience with python and it's data science libraries like pyspark,numpy, Scikitlearn and strong prior experience working with engineering datasets perfectly match my background.
+
+3. Also this summer my friend worked at J & J as a Software Development intern, who spoke very highly of the work culture and the team, Which makes me excited to work for the company. In fact, since then I started looking at the J&J career site for opportunities.
+
+
+
+**Tell us about a time you worked on a project with stakeholders and how you handled it.**
+
+In my first job our stakeholder was Edelweiss Financial services, Indias largest fintech company. We sell our tranding strategies to them, thus they are our direct stakeholder. They also provide us the infrastructer for developing our strategies. I as a lead ML engineer, is responsible for our models. We have to provide them various metrics that tell them the expected performance of these models in live trading. This means, I have to ensure our team and me are very careful with our models.
+
+I've decided to direct more efforts towards building a stress testing engine - that contains suite of tests much like in traditional software but for machine learning models. These tests are designed to improve the robustness of the models. Also I've taken the call to always provide them with the worst case performance. This helped in earning their trust and improved our relationship with them.
+
+
+
+
+**Tell us about a time you analyzed financial data in support of a project.**
+
+My last job involved working with financial data to make quantitative strategies to trade in stock markets. One peculiar aspect of financial data is that they are incredably noisy and show frequent regime changes. Thus we need to build models that are sensitive to such changes and can immediately adapt. Also it's extremely crucial to assess the model's robustness.
+
+We've decided to direct more efforts towards building a stress testing engine - that contains suite of tests much like in traditional software but for machine learning models. These tests are designed to improve the robustness of the models. Also from technical standpoint, we always preferred ensembling of various models. This we found performs better in live as the resultant model has less bias.
+![image](https://user-images.githubusercontent.com/21222766/191063156-51dba969-a8b9-4349-bcd6-bf5ac7b1baba.png)
+
+
+
+
+
+
 # ML-wild
 Synthesizing insights for building Real-world ML systems.
 
