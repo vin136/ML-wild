@@ -1,3 +1,7 @@
+Thanks, Vinay! Great! Here's the link for us to connect:
+https://rivs.zoom.us/j/4392120096
+
+
 **Why are you interested in this position (3 minutes to respond)**
 
 1. I learned that I'll be working with Ethicon product team that design and improve surgical instruments, I know that my work has a direct impact in improving people's lives. It's always and satisfying to know that not only you will learn skills useful in you career, but also have positive impact along the way.
