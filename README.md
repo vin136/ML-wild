@@ -1,3 +1,42 @@
+Pitch for Why good fit?
+
+
+
+
+I have strong prior experience building Machine Learning Powerd Applications. Previously, I was the founding engineer at Nivshi Capital. I lead a team of engineers to build a Deep Reinforcement learning-based trading SaaS company. I thrive in ambiguity. I have a deep love for learning and can quickly adapt to the needs. Also, I share the visceral experience of building a start-up from scratch and would love to be part of another. As an AI Engineer, I understand the company's mission and how it is the right idea at the right time - Commoditizing AI. 
+
+I believe this role would offer me the intellectual stimulation and a collaborative environment that would allow me to excel. I am looking forward to learning more about the role.
+
+Meta Skill: General capability of doing quality research. (Scientific method, thinking in first principles, rigorous testing, and careful analysis)
+Specialized Knowledge: Training and debugging neural networks, Statistics and Machine learning.
+
+
+Hello Pratap,
+
+
+
+I've just applied for the Machine Learning Scientist Role at Arena. I value your time and promise this will be quick.
+
+
+
+Why I'm a great fit for the Role?
+
+
+
+Previously I've spent 3 years trying to make Deep Reinforcement learning work in the real world. I was the lead engineer at Niveshi Capital, developing intraday trading & execution strategies using Reinforcement Learning. I'm sure you are well aware of the difficulty in doing so. I've developed the tenacity needed to make the theory work in the real world.
+
+
+
+I want to be part of the team. Happy to share anything that's helpful for you to see the fit. Looking forward to hearing from you.
+
+
+
+Best,
+
+Vinay
+
+
+
 Thanks, Vinay! Great! Here's the link for us to connect:
 https://rivs.zoom.us/j/4392120096
 
