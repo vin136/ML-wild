@@ -1,3 +1,13 @@
+
+I'm currently doing my masters in computer science with specialization in Machine learnning. I will be graduating this May but can also do it early - around january. So I'm open to roles that require joining after January.
+
+Befor this I worked for nearly 3 years at a trading SaaS company - Niveshi Capital. I joined when the company was an early stage startup and responsible for building their machine learning pipeline - from gathering data to production grade models. Technology wise - Python and python base libraries like (numpy,pandas,tensorflow and pytorch.)
+
+Also this summer I worked as a Research Intern at a lab in my department. We worked on building Computer vision based models for solar forecasting. Our work is the process of being published at a conference, we r drafting the material. So overall i've experience both research and industry.
+
+
+
+
 Pitch for Why good fit?
 
 
